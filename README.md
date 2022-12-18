@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandprakash01
 - 👀 I’m interested in making the future with 0's and 1's
-- 🌱 I’m currently learning frontend technologies
+- 🌱 I’m Full Stack Developer
 - 😉
 - 👥 "Keep your friends rich, and your enemies rich, and wait to find out which is which"
 
