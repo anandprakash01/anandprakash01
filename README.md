@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandprakash01
 - 🌱 I’m Full Stack Developer
-- 😉
+- 📫 How to reach me hr.anand0101@gmail.com
 
 
 <!---
