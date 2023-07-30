@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandprakash 
+- 👋 Hi, I’m Anand Prakash
 - 🌱 I’m Full Stack Developer
 - 📫 How to reach me ap.anandprakash21@gmail.com
 
