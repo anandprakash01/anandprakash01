@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand Prakash
-- 🌱 I’m Full Stack Developer
+- 🌱 I’m FrontEnd Developer
 - 📫 How to reach me ap.anandprakash21@gmail.com
 
 - ✅ Projects -
