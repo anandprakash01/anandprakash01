@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand Prakash
 - 🌱 I’m FrontEnd Developer
 - 📫 How to reach me ap.anandprakash21@gmail.com
-- 👻 Visit my Portfolio website: https://anandprakash-portfolio.netlify.app/
+- 👻 Visit my Portfolio website: https://anand-portffolio.netlify.app/
 
 - ✅ Projects -
 - Amazon clone : https://amazonclonewebapp.netlify.app/
