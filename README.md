@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anand Prakash #
+# 👋 _Hi, I’m Anand Prakash_ # <br>
 - 🌱 I’m FrontEnd Developer
 - 👻 Visit my Portfolio website : [Link](https://anand-portffolio.netlify.app/)
 - 📫 How to reach me <br>
