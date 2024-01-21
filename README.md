@@ -4,7 +4,7 @@
 - 👻 Visit my Portfolio website: https://anand-portffolio.netlify.app/
 
 - ✅ Projects -
-- Amazon clone : https://amazonclonewebapp.netlify.app/
+- Amazon clone : [Visit](https://amazonclonewebapp.netlify.app/)
 - Fingertip movies : https://fingertip-movies.netlify.app/
 
 
