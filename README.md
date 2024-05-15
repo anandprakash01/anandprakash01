@@ -1,5 +1,5 @@
 # 👋 _Hi, I’m Anand Prakash_
-- 🌱 I’m FrontEnd Developer
+- 🌱 I’m Full Stack Developer
 - 👻 Visit my Portfolio website : [Link](https://anand-portffolio.netlify.app/)
 - 📫 How to reach me <br>
   - [Gmail](mailto:ap.anandprakash21@gmail.com)
