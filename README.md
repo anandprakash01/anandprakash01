@@ -8,6 +8,7 @@
 - ✅ Projects -
   - Amazon clone : [Link](https://amazonclonewebapp.netlify.app/)
   - Fingertip movies : [Link](https://fingertip-movies.netlify.app/)
+  - Stay Swift Hotels : [Link](https://stay-swift-anand.netlify.app/)
 
 
 - 📄 Best way to master the code is handle the [**Error**] efficiently.
