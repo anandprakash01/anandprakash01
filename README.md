@@ -7,10 +7,10 @@
   - [Linkedin](https://www.linkedin.com/in/anandprakash21/)
 
 - ✅ Projects -
-  - 1) Talk to Me – A Real-Time Chat application (Full-stack) : [Link](https://talk-to-mee.netlify.app/)
+  - Talk to Me – A Real-Time Chat application (Full-stack) : [Link](https://talk-to-mee.netlify.app/)
   - Amazon Clone – E-commerce platform (Frontend) : [Link](https://amazonclonewebapp.netlify.app/)
-  - Fingertip movies : [Link](https://fingertip-movies.netlify.app/)
-  - Stay Swift Hotels : [Link](https://stay-swift-anand.netlify.app/)
+  - Fingertip movies (Frontend) : [Link](https://fingertip-movies.netlify.app/)
+  - Stay Swift Hotels (Frontend) : [Link](https://stay-swift-anand.netlify.app/)
 
 
 - 📄 Best way to master the code is handle the [**Error**] efficiently.
