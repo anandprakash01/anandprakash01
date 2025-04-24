@@ -64,10 +64,16 @@ A hotel booking frontend application with elegant UI.
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img style="width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=anandprakash01&theme=radical" />
-  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandprakash01&layout=compact&theme=radical" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandprakash01&theme=radical" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandprakash01&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 📈 Contribution Graph
 
