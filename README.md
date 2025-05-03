@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects
 
-### Talk to Me - Real-Time Chat Application
+### Talk to Me - Real-Time Chat Application (Full-stack)
 
 A full-stack chat application with real-time messaging and notification capabilities.
 
@@ -38,29 +38,29 @@ A full-stack chat application with real-time messaging and notification capabili
 - **Live Demo**: [Talk to Me](https://talk-to-mee.netlify.app/)
 - **Features**: Real-time messaging, user authentication, responsive design
 
-### Amazon Clone - E-commerce Platform
+### Amazon Clone - E-commerce Platform (Frontend)
 
 A frontend implementation of Amazon's e-commerce platform.
 
-- **Tech Stack**: React, CSS, Firebase
+- **Tech Stack**: React js, React-redux, React-router, API, Tailwind CSS, Material UI Icons, Firebase authentication.
 - **Live Demo**: [Amazon Clone](https://amazonclonewebapp.netlify.app/)
 - **Features**: State management, Product listings, cart functionality, responsive UI
 
-### Fingertip Movies
+### Fingertip Movies (Frontend)
 
 A movie browsing application with comprehensive movie information.
 
-- **Tech Stack**: React, API integration
+- **Tech Stack**: HTML, CSS, vanilla JavaScript, APIs, Font Awesome Icons
 - **Live Demo**: [Fingertip Movies](https://fingertip-movies.netlify.app/)
 - **Features**: Movie search, details view, responsive design
 
-### Stay Swift Hotels
+### Stay Swift Hotels (Frontend)
 
 A hotel booking frontend application with elegant UI.
 
-- **Tech Stack**: React, CSS
+- **Tech Stack**: React js, React-router, API, Tailwind CSS, Material UI Icons, Firebase authentication
 - **Live Demo**: [Stay Swift Hotels](https://stay-swift-anand.netlify.app/)
-- **Features**: Hotel listings, booking interface, responsive design
+- **Features**: Hotel listings, login, responsive design
 
 ## 📊 GitHub Stats
 
