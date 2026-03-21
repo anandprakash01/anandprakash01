@@ -8,16 +8,21 @@
 - [🔧 Skills & Technologies](#-skills--technologies)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
-- [🌐 Connect With Me](#-connect-with-me)
+- [🌐 My Profiles](#-my-profiles)
 
 ## 👨‍💻 About Me
 
 - 🚀 Full Stack Developer passionate about creating seamless web experiences
 - 🛠️ Busy making things easy through elegant code solutions
-- 🌱 Currently exploring advanced React patterns and microservices architecture
+- 📫 Open to: Full-time Full Stack Developer roles and open-source collaborations.
+- 🌱 Currently learning how to handle and transmit images over Socket.io to upgrade my **Talk to Me** project.
 - ⚡ Fun fact: I believe the best way to master code is to handle **errors** efficiently
 
 ## 🔧 Skills & Technologies
+
+- Frontend:
+- Backend:
+- Languages and tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -32,35 +37,46 @@
 
 ### Talk to Me - Real-Time Chat Application (Full-stack)
 
-A full-stack chat application with real-time messaging and notification capabilities.
+Built a full-stack chat application featuring real-time messaging and seamless user authentication using Socket.io.
+
+<!-- **[🌐 Live Demo](https://talk-to-mee.netlify.app/)** | **[💻 Source Code](https://github.com/anandprakash01/talk-to-me)** -->
+
+<!-- <a href="https://talk-to-mee.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/anandprakash01/talk-to-me">
+  <img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a> -->
+
+<!-- ![Alt Text](Image URL)
+[Link Text](Destination URL)
+Combined (Linked Image): [![Alt Text](Image URL)](Destination URL) -->
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://talk-to-mee.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandprakash01/talk-to-me)
 
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js), Socket.io
-- **Live Demo**: [Talk to Me](https://talk-to-mee.netlify.app/)
 - **Features**: Real-time messaging, user authentication, responsive design
 
 ### Amazon Clone - E-commerce Platform (Frontend)
 
 A frontend implementation of Amazon's e-commerce platform.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://amazonclonewebapp.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandprakash01/amazon-clone)
+
 - **Tech Stack**: React js, React-redux, React-router, API, Tailwind CSS, Material UI Icons, Firebase authentication.
-- **Live Demo**: [Amazon Clone](https://amazonclonewebapp.netlify.app/)
 - **Features**: State management, Product listings, cart functionality, responsive UI
 
 ### Fingertip Movies (Frontend)
 
 A movie browsing application with comprehensive movie information.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://fingertip-movies.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandprakash01/fingertip-movies)
+
 - **Tech Stack**: HTML, CSS, vanilla JavaScript, APIs, Font Awesome Icons
-- **Live Demo**: [Fingertip Movies](https://fingertip-movies.netlify.app/)
 - **Features**: Movie search, details view, responsive design
-
-### Stay Swift Hotels (Frontend)
-
-A hotel booking frontend application with elegant UI.
-
-- **Tech Stack**: React js, React-router, API, Tailwind CSS, Material UI Icons, Firebase authentication
-- **Live Demo**: [Stay Swift Hotels](https://stay-swift-anand.netlify.app/)
-- **Features**: Hotel listings, login, responsive design
 
 ## 📊 GitHub Stats
 
@@ -81,16 +97,15 @@ A hotel booking frontend application with elegant UI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anandprakash01&color=brightgreen)
 
-## 🌐 Connect With Me
+## 🌐 My Profiles
 
-- **Portfolio**: [Visit My Portfolio](https://anand-portffolio.netlify.app/)  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://anand-portfolio.netlify.app/)
+- **Visit My Portfolio**: [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://anand-portffolio.netlify.app/)
 
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/anandprakash21/)  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandprakash21/)
+- **Connect on LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandprakash21/)
 
-- **Email**: [ap.anandprakash21@gmail.com](mailto:ap.anandprakash21@gmail.com)  
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ap.anandprakash21@gmail.com)
+- **LeetCode**: [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anandprakash21/)
+
+- **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ap.anandprakash21@gmail.com)
 
 ---
 
