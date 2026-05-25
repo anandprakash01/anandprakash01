@@ -125,7 +125,7 @@ Built a dynamic movie discovery and booking platform capable of processing and p
 ## 📊 GitHub Stats
 
 <table cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0; padding: 0; margin: 0;">
-  <tr style="border: 0">
+  <tr style="border-collapse: collapse; border: 0; padding: 0; margin: 0;">
     <!-- <td align="center" width="36%" style="border: 0; padding: 0; margin: 0; padding-right: 5px">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandprakash01&show_icons=true&theme=radical&hide_border=true" width="100%" alt="Anand's GitHub Stats" style="display: block; width: 100%; border: 0; margin: 0; padding: 0;" />
     </td> -->
