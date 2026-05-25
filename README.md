@@ -124,22 +124,29 @@ Built a dynamic movie discovery and booking platform capable of processing and p
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandprakash01&theme=radical" width="100%" />
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0; padding: 0; margin: 0;">
+  <tr style="border: 0">
+    <!-- <td align="center" width="36%" style="border: 0; padding: 0; margin: 0; padding-right: 5px">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandprakash01&show_icons=true&theme=radical&hide_border=true" width="100%" alt="Anand's GitHub Stats" style="display: block; width: 100%; border: 0; margin: 0; padding: 0;" />
+    </td> -->
+    <td align="center" width="29%" style="border: 0; padding: 0; margin: 0; padding-right: 5px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anandprakash01&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" style="display: block; width: 100%; border: 0; margin: 0; padding: 0;" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandprakash01&layout=compact&theme=radical" width="100%" />
+    <td align="center" width="35%" style="border: 0; padding: 0; margin: 0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=anandprakash01&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" style="display: block; width: 100%; border: 0; margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
 
 ### 📈 Contribution Graph
 
-[![Anand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandprakash01&theme=react-dark)](https://github.com/anandprakash01)
+[![Anand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandprakash01&theme=react-dark&hide_border=true&area=true)](https://github.com/anandprakash01)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anandprakash01&color=brightgreen)
+<div>
+  <img src="https://komarev.com/ghpvc/?username=anandprakash01&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=anandprakash01&color=brightgreen) -->
 
 ---
 
